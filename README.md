@@ -5,4 +5,4 @@
  
  **Usage**
  
- > python3 SS.py <ip>
+ > python3 SS.py \<ip\>
